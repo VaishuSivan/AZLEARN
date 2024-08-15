@@ -1,0 +1,7 @@
+/Users/vaishusivan/azlearn/azlearnapp/bin/Publish/azlearnapp
+/Users/vaishusivan/azlearn/azlearnapp/bin/Publish/appsettings.Development.json
+/Users/vaishusivan/azlearn/azlearnapp/bin/Publish/appsettings.json
+/Users/vaishusivan/azlearn/azlearnapp/bin/Publish/azlearnapp.dll
+/Users/vaishusivan/azlearn/azlearnapp/bin/Publish/azlearnapp.deps.json
+/Users/vaishusivan/azlearn/azlearnapp/bin/Publish/azlearnapp.runtimeconfig.json
+/Users/vaishusivan/azlearn/azlearnapp/bin/Publish/azlearnapp.pdb
